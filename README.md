@@ -71,5 +71,5 @@ If you aren’t comfortable editing JSON directly:
 
 Here are some repositories that utilize this dataset:
 
-- [Trump Executive Order Tracker](https://github.com/HueXiPrime/Trump-Executive-Order-Tracker) - Primary tracking interface
-- [Trump EOs Tracker](https://github.com/kaushika05/trump-eos-tracker) - Alternative visualization
+- [Trump Executive Order Tracker](https://github.com/HueXiPrime/Trump-Executive-Order-Tracker) - Huexi's Interface
+- [Trump EOs Tracker](https://github.com/kaushika05/trump-eos-tracker) - Kaushika's Interface
