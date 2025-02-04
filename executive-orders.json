@@ -166,8 +166,18 @@
     "forecastImpact": 3,
     "lawsuits": [
       {
-        "caseName": "Federal Union v. Trump",
-        "description": "Union lawsuit challenging new firing rules."
+        "caseName": "National Treasury Employees Union v. Trump et al.",
+        "description": "Union lawsuit challenging new firing rules.",
+        "docket": "1:25-cv-00170",
+        "court": "D.D.C.",
+        "url": "https://www.courtlistener.com/docket/69560537/national-treasury-employees-union-v-trump/"
+      },
+      {
+        "caseName": "Public Employees for Environmental Responsibility v. Trump et al.",
+        "description": "Union lawsuit challenging new firing rules.",
+        "docket": "8:25-cv-00260",
+        "court": "D. Maryland",
+        "url": "https://www.courtlistener.com/docket/69586644/public-employees-for-environmental-responsibility-v-trump/"
       }
     ],
     "lastUpdated": "2025-01-23"
@@ -283,8 +293,39 @@
     "forecastImpact": 5,
     "lawsuits": [
       {
-        "caseName": "Doe v. Trump",
-        "description": "Challenging the EO's constitutionality."
+        "caseName": "State of Washington et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "2:25-cv-00127",
+        "court": "W.D. Wash.",
+        "url": "https://www.courtlistener.com/docket/69561931/state-of-washington-v-trump/"
+      },
+      {
+        "caseName": "Doe et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "1:25-cv-10135",
+        "court": "D. Mass",
+        "url": "https://www.courtlistener.com/docket/69560579/doe-v-trump/"
+      },
+      {
+        "caseName": "State of New Jersey et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "1:25-cv-10139",
+        "court": "D. Mass",
+        "url": "https://www.courtlistener.com/docket/69561497/state-of-new-jersey-v-trump/"
+      },
+      {
+        "caseName": "New Hampshire Indonesian Community Support et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "1:25-cv-00038",
+        "court": "D.N.H.",
+        "url": "https://www.courtlistener.com/docket/69560542/new-hampshire-indonesian-community-support-v-trump/"
+      },
+      {
+        "caseName": "Casa, Inc. et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "8:25-cv-00201",
+        "court": "D. Maryland",
+        "url": "https://www.courtlistener.com/docket/69563661/casa-inc-v-trump/"
       }
     ],
     "lastUpdated": "2025-01-23"
@@ -501,7 +542,15 @@
     "signedDate": "2025-01-20",
     "forecastStall": 0.4,
     "forecastImpact": 3,
-    "lawsuits": [],
+    "lawsuits": [
+      {
+        "caseName": "PFLAG, Inc. et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "1:25-cv-00337",
+        "court": "D. Maryland",
+        "url": "https://www.courtlistener.com/docket/69609508/pflag-inc-v-donald-j-trump-in-his-official-capacity-as-president-of/"
+      }
+    ],
     "lastUpdated": "2025-01-23"
   },
   {
@@ -515,7 +564,15 @@
     "signedDate": "2025-01-20",
     "forecastStall": 0.25,
     "forecastImpact": 4,
-    "lawsuits": [],
+    "lawsuits": [
+      {
+        "caseName": "National Association of Diversity Officers in Higher Education et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "1:25-cv-00333",
+        "court": "D. Maryland",
+        "url": "https://www.courtlistener.com/docket/69607847/national-association-of-diversity-officers-in-higher-education-v-trump/"
+      }
+    ],
     "lastUpdated": "2025-01-23"
   },
   {
@@ -599,7 +656,15 @@
     "signedDate": "2025-01-20",
     "forecastStall": 0.35,
     "forecastImpact": 3,
-    "lawsuits": [],
+    "lawsuits": [
+      {
+        "caseName": "National Association of Diversity Officers in Higher Education et al. v. Trump et al.",
+        "description": "Challenging the EO's constitutionality.",
+        "docket": "1:25-cv-00333",
+        "court": "D. Maryland",
+        "url": "https://www.courtlistener.com/docket/69607847/national-association-of-diversity-officers-in-higher-education-v-trump/"
+      }
+    ],
     "lastUpdated": "2025-01-23"
   },
   {
